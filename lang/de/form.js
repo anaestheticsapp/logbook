@@ -61,7 +61,7 @@ const FORM = {
   DISTANT: 'Distant',
   DRUG_ERROR: 'Drug Error',
   DURAL_PUNCTURE: 'Dural puncture',
-  ENT: 'ENT',
+  ENT: 'HNO',
   ETT: 'ETT',
   ECHOCARDIOGRAM: 'Echocardiogram',
   ELECTIVE: 'Elective',
